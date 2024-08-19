@@ -25,16 +25,16 @@ The Z-test statistic was calculated to assess the difference in CTRs. The notebo
 - Pooled Variance
 - Standard Error and Test Statistics
 
-#Calculating P-Value and Statistical Significance
+# Calculating P-Value and Statistical Significance
 The P-value was computed to determine if the observed difference in CTRs is statistically significant. A significance level (𝛼) of 0.05 was used.
 
-#Significance and Confidence Interval (CI)
+# Significance and Confidence Interval (CI)
 - **P-value:** Calculated from the **Z-test**
 - **95% Confidence Interval:** Range calculated for the difference in CTRs
 If the P-value is less than 0.05, the null hypothesis is rejected, indicating a statistically significant difference between the two groups.
 
-#Practical Significance
+# Practical Significance
 Beyond statistical significance, the effect size and practical significance were evaluated to determine whether the observed difference is meaningful for the business.
 
-#Conclusion
+# Conclusion
 The A/B test results provided actionable insights into the impact of the CTA button color on CTR, guiding future design decisions for LunarTech's landing page.
