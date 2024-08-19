@@ -1,5 +1,5 @@
 # AB_Testing_UX_LandingPage_LunarTech_CaseStudy
-AB Testing UX LandingPage LunarTech CaseStudy from the Python for Data Science Course freecodecamp.org
+AB Testing UX LandingPage LunarTech CaseStudy from the Python for Data Science *Course freecodecamp.org*
 # Overview
 This repository contains a case study on A/B testing focused on optimizing the UX of a landing page for LunarTech. The project walks through the entire process from hypothesis formulation to statistical analysis, with a focus on increasing the Click-Through Rate (CTR) of the landing page.
 
