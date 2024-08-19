@@ -36,5 +36,16 @@ If the P-value is less than 0.05, the null hypothesis is rejected, indicating a 
 # Practical Significance
 Beyond statistical significance, the effect size and practical significance were evaluated to determine whether the observed difference is meaningful for the business.
 
+
+Here’s an updated conclusion section for your README file, incorporating the points about statistical significance, confidence intervals, and practical significance:
+
 # Conclusion
-The A/B test results provided actionable insights into the impact of the CTA button color on CTR, guiding future design decisions for LunarTech's landing page.
+The A/B test conducted on the LunarTech landing page revealed the following insights:
+
+**Statistical Significance:** There exists a statistically significant difference in the Click-Through Rate (CTR) between the experimental version (with the "Enroll Now" button) and the control version (with the "Secure Free Trial" button) at a 5% significance level. This indicates that the change in the CTA button has a meaningful impact on user behavior.
+
+**Confidence Interval:** The confidence interval for the difference in CTRs is quite narrow, providing a precise estimate of the effect size. This narrow confidence interval further strengthens the reliability of the results.
+
+**Practical Significance:** In addition to statistical significance, there is practical significance in the difference between the experimental and control versions at a 10% Minimum Detectable Effect (MDE). The results suggest that the observed difference in CTR is not only statistically significant but also practically meaningful, with potential implications for increasing user engagement and conversions.
+
+These findings suggest that implementing the "Enroll Now" button could lead to a measurable improvement in CTR, making it a recommended change for LunarTech's landing page.
